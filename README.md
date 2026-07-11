@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**muneerzain992/muneerzain992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Zain Muneer 🚀
+### Full-Stack Developer & Machine Learning Engineer
+**Building scalable web architectures and intelligent systems**
 
-Here are some ideas to get you started:
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muneerzain992)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-muneer/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muneerzain992.github.io/Zain-Muneer-Portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- AMINATED SUPERHERO POSTER EMBED -->
+<img src="Assets/output.gif" width="450" alt="Zain Muneer - Superhero Developer Poster" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 20px rgba(0,0,0,0.4);"/>
+
+</div>
+
+## 🪐 About Me
+
+I am a Computer Science graduate focused on bridging the gap between robust backend systems and intelligent machine learning models. With experience managing digital campaigns and building end-to-end applications, I design systems optimized for performance, clean architecture, and seamless user experiences.
+
+*   **🔭 Currently Working On:** Building full-stack web platforms and refining predictive AI models.
+*   **🌍 Location Target:** Actively looking for Junior Full-Stack Developer roles in Riyadh, Saudi Arabia.
+*   **🎯 Learning Goals:** Deepening my knowledge in system design, large language models (LLMs), and cloud orchestration.
+*   **⚡ Ask Me About:** React, Flask, Scikit-learn, Git version control, or the architecture behind my AI Salary Prediction project.
+
+---
+
+## 🛠️ Skills Showcase
+
+### 💻 Frontend & Backend
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,python,flask,fastapi,django)](https://skillicons.dev)
+
+### 📊 Databases, AI/ML & Cloud
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,sklearn,aws,docker)](https://skillicons.dev)
+
+### 🔧 Tools & Deployment
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muneerzain992&show_icons=true&theme=tokyonight&count_private=true" alt="Zain's GitHub Stats" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneerzain992&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muneerzain992&theme=tokyonight" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with 💙 and powered by Python & React. Let's connect and build something impactful!</sub>
+</div>
