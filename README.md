@@ -5,14 +5,14 @@
 **Building scalable web architectures and intelligent systems**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muneerzain992)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-muneer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muneerzain992)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muneerzain992.github.io/Zain-Muneer-Portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muneerzain992@gmail.com)
 
 ---
 
 <!-- AMINATED SUPERHERO POSTER EMBED -->
-<img src="Assets/output.gif" width="450" alt="Zain Muneer - Superhero Developer Poster" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 20px rgba(0,0,0,0.4);"/>
+<img src="ezgif-5eb4a6208e623883.webp" width="450" alt="Zain Muneer - Superhero Developer Poster" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 20px rgba(0,0,0,0.4);"/>
 
 </div>
 
@@ -44,12 +44,12 @@ I am a Computer Science graduate focused on bridging the gap between robust back
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muneerzain992&show_icons=true&theme=tokyonight&count_private=true" alt="Zain's GitHub Stats" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneerzain992&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muneerzain992&show_icons=true&theme=tokyonight&hide_border=true" alt="Zain's GitHub Stats" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneerzain992&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muneerzain992&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muneerzain992&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
