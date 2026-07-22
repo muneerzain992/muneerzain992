@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Zain Muneer 🚀
+# Hi, I'm Zain Muneer 
 ### Full-Stack Developer & Machine Learning Engineer
 **Building scalable web architectures and intelligent systems**
 
