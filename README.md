@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="100%" alt="Zain Muneer — IT Coordinator, AI and Full-Stack Developer based in Riyadh" />
-<img src="./assets/about.png" width="100%" alt="Focus areas: IT Coordination, AI Research and Business Development" />
-<img src="./assets/stack.png" width="100%" alt="Technology stack including Python, React, TypeScript, Next.js, SQL and machine learning" />
-<img src="./assets/projects.png" width="100%" alt="Featured projects: AI Salary Prediction, Online Quran Academy, and private MerApp CRM" />
-<img src="./assets/connect.png" width="100%" alt="Build, coordinate, automate, grow — Technology, AI and Business" />
+<img src="./hero.png" width="100%" alt="Zain Muneer — IT Coordinator, AI and Full-Stack Developer based in Riyadh" />
+<img src="./about.png" width="100%" alt="Focus areas: IT Coordination, AI Research and Business Development" />
+<img src="./stack.png" width="100%" alt="Technology stack including Python, React, TypeScript, Next.js, SQL and machine learning" />
+<img src="./projects.png" width="100%" alt="Featured projects: AI Salary Prediction, Online Quran Academy, and private MerApp CRM" />
+<img src="./connect.png" width="100%" alt="Build, coordinate, automate, grow — Technology, AI and Business" />
 
 </div>
 
